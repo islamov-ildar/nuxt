@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+  <div>
+    index page
+  </div>
 </template>
 
 <style scoped>

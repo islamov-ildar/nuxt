@@ -1,9 +1,12 @@
-<script setup lang="ts">
+<script setup>
+const route = useRoute().params;
 
 </script>
 
 <template>
-  $END$
+<div>
+  event id: {{ $route.params.id }}
+</div>
 </template>
 
 <style scoped>

@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+  <div>
+    profile events
+  </div>
 </template>
 
 <style scoped>

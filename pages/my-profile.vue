@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+  <div>
+    my-profile
+  </div>
 </template>
 
 <style scoped>
